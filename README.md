@@ -1,3 +1,3 @@
 # Smart-Campus
 
-## Using DHCP protocol
+Using DHCP protocol
